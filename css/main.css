@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar.scrolled {
+    background-color: #525f7f !important;
+    transition: background-color 200ms linear;
+}
+.text {
+    font-size: 1.4em;
+}
+.fa-code{
+    color: #02bec4;
+}
+.fa-user-secret {
+    color: #e1f7e7;
+}
+.fa-mobile-phone {
+    color: #02bec4;
+}
+.underline {
+    text-decoration: underline;
+}
+.para {
+    line-height: 30px;
+    word-spacing: 2px;
+    font-size: 1.2em;
+}
+.text-gradient {
+    background: linear-gradient(to left bottom, #17a2b8, #0097cc, #0089e0, #0075ed, #0059ea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
